@@ -1,0 +1,28 @@
+# custom
+**/meta/
+/docker/database
+
+# Archivos generados por el sistema
+*.pyc
+*.pyo
+__pycache__
+
+# Entorno virtual de Pipenv
+/.venv
+
+# Archivos locales de configuración (añade los específicos de tu proyecto si los tienes)
+/local_settings.py
+
+# Archivos de registro
+/logs/
+
+# Archivos de usuario (configuración, secretos, etc.)
+/.env
+/.env.prod
+
+# Archivos de dependencias (ejemplos)
+/node_modules/
+/bower_components/
+
+# Database
+db.sqlite3

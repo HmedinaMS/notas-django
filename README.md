@@ -1,6 +1,6 @@
 ## Notas Django & Django Rest Framework
 
-![Django Rest-framework](https://www.django-rest-framework.org/img/logo.png)
+![Django Rest-framework](https://i.ytimg.com/vi/WtdefC1WJgE/maxresdefault.jpg)
 
 #### _El objetivo de este proyecto es aprender y practicar Django y Django Rest-framework 🛸🚀_
 
